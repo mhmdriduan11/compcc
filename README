@@ -1,0 +1,2 @@
+cc or c++ and write .clang_complete file
+uses cc_args.py from https://github.com/Rip-Rip/clang_complete/blob/master/bin/cc_args.py
